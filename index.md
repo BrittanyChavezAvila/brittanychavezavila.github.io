@@ -4,7 +4,7 @@ This is my home page! My name is Brittany Chavez Avila and I am a student at [Ca
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/brittanychavezavila.
+My GitHub page is http://github.com/BrittanyChavezAvila.
 
 ### CPSC 120
 
