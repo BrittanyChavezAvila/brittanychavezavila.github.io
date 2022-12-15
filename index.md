@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 
 This is my home page! My name is Brittany Chavez Avila and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
@@ -19,3 +21,6 @@ My GitHub page is http://github.com/brittanychavezavila.
 * Lab 11
 
     Lab 11, Part 2 was among my favorites because the source code was visually appealing. I liked how functions were created and declared in a separate source file. This made it simple to call the functions in the .cc file and to understand and trace the code. Not only did I enjoy the way this lab taught us to code, but I also enjoyed the Hi-Low Game concept.
+
+</body>
+</html>
