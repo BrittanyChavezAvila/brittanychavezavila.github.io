@@ -1,4 +1,4 @@
-<h1 style="border:2px solid Tomato;">Hello World</h1>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
 
 This is my home page! My name is Brittany Chavez Avila and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
